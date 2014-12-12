@@ -17,6 +17,3 @@ Custom pixel/block animator using HTML5 and Javascript.
 ## File Index
 - pixelanimation.js
 - pixelanimation.html
-
-## Bugs
-- The RGB Arrays should have a finite number of elements that match up to each pixel / block created, but the colors for the final pixel / blocks are not lining up 100%.  It is accurate for the most part, but I've had to add additional elements to the RGB Arrays to get the proper colors on the proper blocks.
