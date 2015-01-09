@@ -11,7 +11,6 @@ Custom pixel/block animator using HTML5 and Javascript.
 ## Demo
 - Flash Demo: http://intechnicolor.net
 - HTML5 / Javascript Demo: http://intechnicolor.net/html5/
-- HTML5 / Javascript Demo (Torch Labs): http://torch-labs.com
 - Current Version: 1.0
 
 ## File Index
